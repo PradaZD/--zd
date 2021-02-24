@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+<<<<<<< HEAD
     "axios": "^0.21.1",
     "immutable": "^4.0.0-rc.12",
     "react": "^17.0.1",
@@ -19,6 +20,12 @@
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.2.1",
     "web-vitals": "^1.0.1"
+=======
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+>>>>>>> d45e2d17ac33a926c06feaf390a795c44fdace23
   },
   "scripts": {
     "start": "react-scripts start",
@@ -43,8 +50,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "resolutions": {
     "styled-components": "^5"
+=======
+>>>>>>> d45e2d17ac33a926c06feaf390a795c44fdace23
   }
 }

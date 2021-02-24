@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { PureComponent } from 'react';
 import { Provider } from 'react-redux';
 import { BrowserRouter, Route } from 'react-router-dom';
@@ -25,4 +26,17 @@ class App extends PureComponent {
 }
 
 
+=======
+import React, { Component } from 'react';
+
+class App extends Component {
+  render() {
+    return (
+      <div>
+        hello word
+      </div>
+    )
+  }
+}
+>>>>>>> d45e2d17ac33a926c06feaf390a795c44fdace23
 export default App;

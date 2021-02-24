@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+## react脚手架生成react项目，不需要指定版本号。因为一般不会因为版本号而出现阻塞性的问题，可能出现的是一些黄色的警告，告诉你有些API已经被禁止试用了。
+
+>>>>>>> d45e2d17ac33a926c06feaf390a795c44fdace23
